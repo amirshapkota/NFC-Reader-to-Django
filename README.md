@@ -1,3 +1,3 @@
 # NFC-Reader-to-Django
 
-Send Data from NFC Reader to Django Backend
+Send Data from NFC Reader to Django Backend.
